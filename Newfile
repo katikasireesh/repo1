@@ -1,0 +1,3 @@
+How Jenkins will build once developer commit the code in github repository?
+solution : Once you create a new job in that just configure the github settings and crontab for every 5 min/
+and now commit any code new chagnes through directly from central repo then we can check how it was ?
